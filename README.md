@@ -1,3 +1,6 @@
+###Exploring-the-Document-Object-Model-DOM-and-Event-Handling-in-JavaScript
+Public
+
 Imagine a webpage as a big house, and all the things on the page (buttons, pictures, text) are like furniture and decorations. DOM is like the blueprint of the house, it tells where everything is and how it's connected. Now, events are like things happening in the house - someone clicking a light switch, opening a door, or playing music.
 
 ### Document Object Model (DOM):
